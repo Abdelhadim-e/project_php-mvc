@@ -1,0 +1,61 @@
+----------
+EL Moutaouakil Abdelhadim L3 Projet web
+
+Rendu tp Authentification php/sql
+-> Mercredi 18 Décembre 2019
+
+--> Professeur Nollet
+
+----------
+A savoir : 
+
+fichier sql à insérer dans phpmyadmin :
+nom db = authen_tp
+
+compte à tester sur le site / Possibilité tester compte admin :
+
+identifiant = admin@authen.fr
+mot de passe = admin
+ 
+Possibilité de créer un compte avec le formulaire d'inscription
+
+
+
+----------
+
+
+Aborscence de l'application = OK 
+
+liste de fonction - class User = OK
+
+liste de fonction - class UserManager = OK
+
+liste de fonction - classConnection = OK
+
+L’accueil avec son message connexion ou salutation si authentifié = ok
+Le formulaire d'authentification = OK
+Le formulaire de création d'un utilisateur = OK
+Les pages de gestion des utilisateurs sont facultatives = OK
+
+Redirection si admin => 0  ou !1 (page unauthorized.php) = OK
+	
+
+
+Pages :
+
+sessionUser = fonctionnel
+Encrytage mdp = utilisation de password_hash et password_verify ( vérif en caract )
+
+header.php = ok
+footer.php = ok
+login.php = ok
+create.php = ok
+unauthorized.php = ok
+userList = ok
+deleteUser = ok
+main.php = ok
+
+
+Site : fonctionnel fiable.
+
+

@@ -1,0 +1,16 @@
+.tableauUser{
+  width: 70% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 70px !important;
+}
+
+.messagenoautorise{
+	height: 215px !important;
+    padding: 40px !important;
+    margin: 92px !important;
+    font-size: 20px !important;
+    text-align: center !important;
+    border: 5px solid !important;
+    border-style: dashed !important;
+}
